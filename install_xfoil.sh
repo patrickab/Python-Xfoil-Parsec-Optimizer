@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 apt install curl
 
 # Install Homebrew, then add to $PATH
